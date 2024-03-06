@@ -1,0 +1,533 @@
+[{
+    "typeInteview": "F2F",
+    "applicantId": "6525eebc1c7bada041a0ab84",
+    "interviewer": [
+        "Tpx3APeyoIgXHAZ2Y5dABtLoRdL2",
+        "V6N7yG5yKHgbbDCADiMbPQHkF5z1"
+    ],
+    "date": "2024-02-14",
+    "area": "Finance",
+    "startTime": "09:30",
+    "endTime": "10:00",
+    "duration": 0,
+    "status": 1,
+    "applicantData": {
+        "_id": "6525eebc1c7bada041a0ab84",
+        "uuid": "9EIw89gDx0SXa9hKoukb9Ejapjw1",
+        "applicationId": "64f845343289cc4265751a4b",
+        "programOffer": "64f843370e2e152ce1145f28",
+        "batchCode": null,
+        "applicationType": "XAT - 2022",
+        "codeOffer": null,
+        "regNo": "FORM-FPM-2023-0RR42301966",
+        "prefix": "Mr.",
+        "firstName": "SHUBHAJYOTI ",
+        "middleName": "",
+        "lastName": "SAHA",
+        "email": [
+            {
+                "type": "Primary",
+                "emailId": "ssahajume08@gmail.com"
+            },
+            {
+                "type": "Alternate",
+                "emailId": "shubhajyoti.saha@tatasteel.com"
+            }
+        ],
+        "phone": [
+            {
+                "type": "Primary",
+                "code": "91",
+                "phoneNo": "9163067307"
+            },
+            {
+                "type": "Alternate",
+                "code": "",
+                "phoneNo": "7044967964"
+            }
+        ],
+        "dob": "1982-09-21",
+        "gender": "male",
+        "disability": {
+            "status": false,
+            "isVisual": null,
+            "percent": null,
+            "isScribe": null,
+            "declaration": null
+        },
+        "nationality": "",
+        "marital": "Married",
+        "blood": "O+",
+        "category": "general",
+        "isNRI": null,
+        "isKashmiri": null,
+        "city": "Kolkata",
+        "state": "West Bengal",
+        "parent": null,
+        "address": {
+            "country": "India",
+            "state": "West Bengal",
+            "district": "Kolkata",
+            "city": "Kolkata",
+            "address1": "30, RAMKRISHNA SAMADHI ROAD,",
+            "address2": "LIG HOUSING ESTATE, BLOCK - H, FLAT NO -13, KOLKATA - 700054",
+            "pincode": "700054"
+        },
+        "academic": [
+            {
+                "qualification": "10th",
+                "state": "West Bengal",
+                "city": "Kolkata",
+                "institution": "HARE SCHOOL",
+                "board": "West Bengal Board Of Secondary Education",
+                "stream": "",
+                "yearPassing": "1999",
+                "markScheme": "Percentage",
+                "maxMark": 900,
+                "obtMark": 669,
+                "percentage": 74.33333333333333,
+                "cert": {
+                    "comment": null,
+                    "type": "application/pdf"
+                }
+            },
+            {
+                "qualification": "12th",
+                "state": "West Bengal",
+                "city": "Kolkata",
+                "institution": "HARE SCHOOL",
+                "board": "Other",
+                "stream": "Science",
+                "yearPassing": "2001",
+                "markScheme": "Percentage",
+                "maxMark": 1200,
+                "obtMark": 786,
+                "percentage": 65.5,
+                "cert": {
+                    "comment": null,
+                    "type": "application/pdf"
+        }
+            },
+            {
+                "qualification": null,
+                "state": null,
+                "city": null,
+                "institution": null,
+                "board": null,
+                "stream": null,
+                "yearPassing": null,
+                "markScheme": null,
+                "maxMark": null,
+                "obtMark": null,
+                "percentage": null,
+                "cert": {
+                    "comment": null,
+                    "type": "application/pdf"
+                }
+            }
+        ],
+        "professional": {
+            "status": false,
+            "certificate": []
+        },
+        "degree": {
+            "type": "Single",
+            "course": [
+                {
+                    "state": "West Bengal",
+                    "university": "Jadavpur University, West Bengal",
+                    "college": {
+                        "name": "Jadavpur University",
+                        "isListed": true
+                    },
+                    "universityType": {
+                        "type": "State",
+                        "isListed": true
+                    },
+                    "examPattern": "Semester wise",
+                    "currSem": "",
+                    "courseName": "BE",
+                    "stream": "Other",
+                    "yearPassing": "2007",
+                    "resultStatus": "Declared",
+                    "markScheme": "10",
+                    "maxMark": null,
+                    "obtMark": null,
+                    "percentage": 8.17,
+                    "cert": {
+                        "comment": null,
+                        "type": "application/pdf"
+                    }
+                }
+            ]
+        },
+        "postGraduate": {
+            "status": true,
+            "course": {
+                "state": "Haryana",
+                "university": "MDI Gurgaon",
+                "college": {
+                    "name": "MDI Gurgaon",
+                    "isListed": true
+                },
+                "universityType": {
+                    "type": "Private",
+                    "isListed": true
+                },
+                "examPattern": "Semester wise",
+                "currSem": "Completed",
+                "courseName": "Master of Business Administration (M.B.A)",
+                "stream": "Other",
+                "yearPassing": "2017",
+                "resultStatus": "Declared",
+                "markScheme": "10",
+                "maxMark": null,
+                "obtMark": null,
+                "percentage": 6.63,
+                "certificate": null,
+                "cert": {
+                    "file": "https://firebasestorage.googleapis.com/v0/b/xlri-erp.appspot.com/o/applicantCertificates%2F9EIw89gDx0SXa9hKoukb9Ejapjw1%2FpgCertificate-9EIw89gDx0SXa9hKoukb9Ejapjw1-7EJFVa?alt=media&token=d9613edc-64c3-4cf2-98de-4bc071737506",
+                    "type": "application/pdf",
+                    "isVerified": false,
+                    "comment": []
+                }
+            }
+        },
+        "workExp": {
+            "status": true,
+            "totalExp": 150,
+            "isSponsered": null,
+            "experience": [
+                {
+                    "employer": "Tata Steel Limited",
+                    "designation": "Sr. Manager/Area Manager ",
+                    "jobResponsibility": "Sr. Manager - Enterprise Risk Management - \tCollaborating with stakeholders to develop and articulate the company’s risk management framework including clarifying roles and responsibilities of three lines of defence and developing and implementing an approach to manage risk within the company’s risk tolerance more fully \tFacilitating the identification of risks throughout the organization, developing, reporting, and monitoring formats on risk management issues and developing methodologies for the assessment of risks throughout the organization \tEnabling review and reporting to senior management on key risks facing Tata Steel group \tAssembling different external speaker sessions regarding Macro – economic and Geo – political Scenario. \tEstablishing and communicating ERM vision across the organization & facilitated use of appropriate ERM methodologies, tools & techniques, and Risk reporting in internal and external forums like RIMS, DJSI  \tAssisting the department on preparation for any ERM implementation",
+                    "fromDate": "2022-05-15",
+                    "toDate": "2023-12-21",
+                    "duration": "19",
+                    "cert": {
+                        "file": "https://firebasestorage.googleapis.com/v0/b/xlri-erp.appspot.com/o/applicantCertificates%2F9EIw89gDx0SXa9hKoukb9Ejapjw1%2FworkExperienceCertificate-9EIw89gDx0SXa9hKoukb9Ejapjw1-pEi2va?alt=media&token=d2f42e71-4bc9-46d9-8ed3-7d74e8353e4d",
+                        "type": "application/pdf"
+                    }
+                },
+                {
+                    "employer": "Tata Steel Limited",
+                    "designation": "Manager - Capital Planning ",
+                    "jobResponsibility": "Manager Capital Planning - Proactively work for preparation and evaluation of all the capital proposals assigned by HOD. Delivered Fund allocation for Capital projects in SAP – HANA like WBS Creation and other SAP related work. Maintained data base and assist in HOD in resolving capital proposal queries & issues. Prepared 5 year’s capital expenditure planning of organization. Executed MOM preparation and tracked the strategy which are advised by Sr. Management in PRG and MCRC meeting \tExpressed long-term Capital Expenditure Plan and evaluating capital spend vs plan and progress status of ongoing projects. Due-diligence, financial model preparation as well as technical and financial validation of different Greenfield & Brownfield capital projects as per Capital Governance Framework and Oversight process . Developed tracker and ensured time-bound execution of projects assigned to functional HODs by CTO across organization. Intervening & coordinating as and when required significant accomplishment.s",
+                    "fromDate": "2018-10-29",
+                    "toDate": "2022-05-14",
+                    "duration": "43",
+                    "cert": {
+                        "file": "https://firebasestorage.googleapis.com/v0/b/xlri-erp.appspot.com/o/applicantCertificates%2F9EIw89gDx0SXa9hKoukb9Ejapjw1%2FworkExperienceCertificate-9EIw89gDx0SXa9hKoukb9Ejapjw1-ruYAgL?alt=media&token=cbe2f15c-04b2-4157-9990-21e8a8254bcd",
+                        "type": "application/pdf"
+                    }
+                },
+                {
+                    "employer": "Pinnacle Infotech Solutions ",
+                    "designation": "Deputy Manager - Executive Assistant to CEO",
+                    "jobResponsibility": "Deputy Manager / Executive Assistant to CEO - Key Result Areas - Chalked out new business strategies to discover & bring in new avenues for market penetration of the product after a thorough market research & assessment; conducted SWOT analysis & GAP analysis for developing strategic plans for business growth - Generated strategic reports & presentations for the CEO and performed market research and competitor analysis, manpower planning & attrition rate analysis. Improved financial performance by analyzing results, variances and combining them with trend estimates and recommending action to management. Supported business model development & analysis, performing business due diligence, customer analytics, market segmentation, market sizing and evaluation of various investment proposals.  Significant Accomplishments. Augmented the business from 2.5 Million USD to 5.5 Million USD. Devised & implemented Skill Competency Mapping Methodology to enhance performance of all technical employees to improve quality",
+                    "fromDate": "2017-06-19",
+                    "toDate": "2018-10-26",
+                    "duration": "16",
+                    "cert": {
+                        "file": "https://firebasestorage.googleapis.com/v0/b/xlri-erp.appspot.com/o/applicantCertificates%2F9EIw89gDx0SXa9hKoukb9Ejapjw1%2FworkExperienceCertificate-9EIw89gDx0SXa9hKoukb9Ejapjw1-n7T3FG?alt=media&token=c43da6af-b3c2-490f-b830-0d6d758b56c3",
+                        "type": "application/pdf"
+                    }
+                },
+                {
+                    "employer": "Bhushan Power and Steel Ltd",
+                    "designation": "Asst. Manager/Executive Assistant to Director ",
+                    "jobResponsibility": "Asst. Manager/Executive Assistant to Director  - Key Result Areas - Sourced fact & data-based insights for Annual Business Planning & Budgeting exercise. Facilitated Business Model Development & Analysis, Business Due Diligence, Customer Analytics, Market Segmentation, Market Sizing and evaluation of various Investment Proposals  Significant Accomplishments. Enhanced raw material quality thru Cost Benefit Analysis of using different grades of coal & other raw material as input of Plant. Pivotal in successful completion of the prestigious SMS-2 project within approved budget of INR 3000 Crores / US$ 45 Million by continuous monitoring of budget movement and optimized utilization, as Project Lead. Implemented several measures to identify deformities, malfunctions, or other abnormalities such as quality improvement in Bright Bar Mill products. Drove in-process quality control & continuous improvement in Steel Melt Shop capabilities while foreseeing performance bottlenecks and taking corrective measures. ",
+                    "fromDate": "2016-07-01",
+                    "toDate": "2017-06-12",
+                    "duration": "11",
+                    "cert": {
+                        "file": "https://firebasestorage.googleapis.com/v0/b/xlri-erp.appspot.com/o/applicantCertificates%2F9EIw89gDx0SXa9hKoukb9Ejapjw1%2FworkExperienceCertificate-9EIw89gDx0SXa9hKoukb9Ejapjw1-6VWAPX?alt=media&token=7c606ea0-ae15-4ed7-b83f-d23ce9481ada",
+                        "type": "application/pdf"
+                    }
+                },
+                {
+                    "employer": "MN Dastur and Co Pvt Ltd",
+                    "designation": "Senior Engineer (Executive Assistant to Director) ",
+                    "jobResponsibility": "Senior Engineer (Executive Assistant to Director)  -  Key Result Areas - Supported the Director in data analysis, key business parameters, correlation for taking vital business decisions, MIS reporting and dashboard analysis. Planned business development strategies to increase the company revenue and brand value; conducted competition scanning and analysis of industry peers/new business and interaction with external agencies. Scheduled, executed, coordinated and followed-up activities amongst contractors, clients, and departments in the organization to match project schedule and manage smooth internal workflow Significant Accomplishments. Received an early promotion to Senior Engineer by delivering exemplary performance. Managed major projects such as Kalinganagar Project, Odisha, 6.2 MTPA, Greenfield Integrated Steel Plant – Steel Melting Shop, Vizag Steel Plant Visakhapatnam, Andhra Pradesh, 6.3 million tonne per annum Expansion Project, Pig Iron Plant at Reddi, Maharashtra so on. Played instrumental role in Rupees 250 Billion Tata Steel KPO 6.3 MTPA Project, led a team of 25 members including self on Steel Melt Shop and Firefighting projects that won appreciation letter for the development, support & implementation of a field force enabling system from Sterling & Wilson and SMS India. ",
+                    "fromDate": "2011-06-06",
+                    "toDate": "2015-03-31",
+                    "duration": "45",
+                    "cert": {
+                        "file": "https://firebasestorage.googleapis.com/v0/b/xlri-erp.appspot.com/o/applicantCertificates%2F9EIw89gDx0SXa9hKoukb9Ejapjw1%2FworkExperienceCertificate-9EIw89gDx0SXa9hKoukb9Ejapjw1-nqsPWN?alt=media&token=800f0e85-12d2-4dda-b72e-ad9eb10cdeca",
+                        "type": "application/pdf"
+                    }
+                },
+                {
+                    "employer": "JESSOP and Company  Ltd ",
+                    "designation": "Engineer /Executive Assistant to Vice President  ",
+                    "jobResponsibility": " Planned and implemented business strategies, plans & procedures, set goals for performance & growth. Studied the business growth of the unit focusing on quality, procedures & financial performances. Directed material planning, budgeting, scheduling & procurement as per production projections ",
+                    "fromDate": "2007-07-02",
+                    "toDate": "2008-11-22",
+                    "duration": "16",
+                    "cert": {
+                        "file": "https://firebasestorage.googleapis.com/v0/b/xlri-erp.appspot.com/o/applicantCertificates%2F9EIw89gDx0SXa9hKoukb9Ejapjw1%2FworkExperienceCertificate-9EIw89gDx0SXa9hKoukb9Ejapjw1-WwIomh?alt=media&token=21faec55-ec57-4b35-9acc-e5f13a506f27",
+                        "type": "application/pdf"
+                    }
+                }
+            ]
+        },
+        "program": null,
+        "document": {
+            "photo": "https://firebasestorage.googleapis.com/v0/b/xlri-erp.appspot.com/o/applicantDocuments%2Fphotograph-9EIw89gDx0SXa9hKoukb9Ejapjw1-VYoOvA?alt=media&token=18cf8e6e-4e25-44bf-852a-8b1c09a9ab59",
+            "photoVerified": false,
+            "photoFileType": null,
+            "signature": "https://firebasestorage.googleapis.com/v0/b/xlri-erp.appspot.com/o/applicantDocuments%2Fsignature-9EIw89gDx0SXa9hKoukb9Ejapjw1-vA8TR1?alt=media&token=8daa82be-c641-4702-924f-2d5937ac73e5",
+            "signatureVerified": false,
+            "signatureFileType": null,
+            "proof": {
+                "type": "Aadhar Card",
+                "no": "4477 9469 5614",
+                "path": "https://firebasestorage.googleapis.com/v0/b/xlri-erp.appspot.com/o/applicantDocuments%2FidentityProof-9EIw89gDx0SXa9hKoukb9Ejapjw1-iS3CRU?alt=media&token=aabd3cb9-2e8b-492e-866f-d23dfaf47a94",
+                "fileType": "application/pdf",
+                "isVerified": false
+            },
+            "comment": []
+        },
+        "declaration": {
+            "applicant": "SHUBHAJYOTI SAHA",
+            "date": "2023-12-22T00:00:00.000Z",
+            "exPGDM": null,
+            "personalSlot": null,
+            "applicationStatus": null,
+            "xatScore": null,
+            "applicationStage": null,
+            "tokenFee": null,
+            "scoreBoard": null,
+            "quantitative": null,
+            "verbalLogic": null,
+            "decisionMaking": null,
+            "total": null,
+            "generalKnowledge": null
+        },
+        "applicationDate": "2023-10-11T00:39:22.699Z",
+        "paymentStatus": "Paid",
+        "advancePaymentStatus": null,
+        "payment": [
+            {
+                "modePayment": "Online",
+                "transactionNo": "20231222010890000944879070570259224",
+                "dateOfPayment": "2023-12-22T03:22:54.801Z",
+                "amount": 3000
+            }
+        ],
+        "multiPaymentId": "64ff5a5d73269b018cae4a4a",
+        "timeline": [
+            {
+                "date": "2023-10-11T06:09:28.400Z",
+                "time": "6:09:28 AM",
+                "type": "action",
+                "message": "Email sent with OTP to SHUBHAJYOTI SAHA on ssahajume08@gmail.com",
+                "templateId": null
+            },
+            {
+                "date": "2023-10-11T06:09:47.940Z",
+                "time": "6:09:47 AM",
+                "type": "action",
+                "message": "Email sent with otp verify to SHUBHAJYOTI SAHA on ssahajume08@gmail.com",
+                "templateId": null
+            },
+            {
+                "date": "2023-12-22T03:20:37.914Z",
+                "time": "3:20:37 AM",
+                "type": "action",
+                "message": "SHUBHAJYOTI SAHA  registered via lead origin: null, registration channel: XLRI, Refferal with Campaign name: null",
+                "templateId": null
+            }
+        ],
+        "stage": 11,
+        "applicationStatus": "opened",
+        "resume": null,
+        "feedback": [],
+        "otp": null,
+        "resetToken": null,
+        "documentVerified": null,
+        "appStatus": "APPLICATIONREVIEW",
+        "others": "<p>Academics and research work attract me. I had research experience during my MTech from IIT KGP and PGDM from MDI Gurgaon. I published my research work in an International Journal Paper on Computational Fluid Dynamics in Elsevier Publication. Details are given below (Attached with PG Certificates)</p>\n<p>Elsevier Publication, Saha S, Guha A and Roy S, Experimental &amp; Computational Investigation of Indoor Air Quality Inside Several Community Kitchens in a Large Campus, Building and Environment, Vol. 52, pp.177-190 in 2012. The paper deals with the experimental and computational investigation of the air quality in selected kitchens in the campus of IIT Kharagpur.</p>\n<p>I worked on Omni-channel Strategy during my PGDM course from MDI Gurgaon. Title of the research work was “Channel Restructuring in Online Retail Industries, Issues and Challenges” (Attached with PG Certificates). The main purpose of the dissertation is to understand the issues and challenges in channel restructuring in Online Retail Industry in perspective of Indian Market.&nbsp;</p>\n<p>However, I worked in Industry after completion of study and gather business acumen and Knowledge till now (approx. 13 years). I have worked in Tata Steel in last 5 years in different depts. like Capital planning and Enterprise Risk Management. I worked in corporate strategy, project management in different organizations prior to Tata Steel in the organizations like Bhushan Power and Steel Ltd, Pinnacle Infotech Solutions and MN Dastur etc. Based on the solid foundation of impeccable education and diverse knowledge and experience, I am now willing to take part in EFPM Programme to understand the change of management perspective specially in Finance and Strategic Management field and carry on my research in the mentioned domain. It is my dream to do engage myself in management teaching and research field after successful completion of PhD or EFPM.&nbsp;</p>",
+        "offerLetter": null,
+        "applicationCompletedTabs": [
+            "programReg",
+            "personal",
+            "address",
+            "academic",
+            "professional",
+            "degree",
+            "postGraduate",
+            "workExp",
+            "document",
+            "declaration",
+            "payment"
+        ],
+        "applicationCompletionPercentage": 100,
+        "feedbacks": [
+            {
+                "feedbackRating": [
+                    {
+                        "key": "Communication Listening (Comprehension capability)",
+                        "value": 18
+                    },
+                    {
+                        "key": "Ability to understand the question",
+                        "value": 6
+                    },
+                    {
+                        "key": "Ability to visualize and imagine the answer to the question",
+                        "value": 7
+                    },
+                    {
+                        "key": "Critical Analysis",
+                        "value": 5
+                    },
+                    {
+                        "key": "Ability to embed stakeholders' sentiments in the solution",
+                        "value": 7
+                    },
+                    {
+                        "key": "Ability to communicate",
+                        "value": 7
+                    },
+                    {
+                        "key": "Quality of Presentation",
+                        "value": 16
+                    }
+                ],
+                "ratedBy": "Tpx3APeyoIgXHAZ2Y5dABtLoRdL2",
+                "overall": 4,
+                "feedback": "Could be offered ",
+                "date": "2024-02-14T04:49:58.594Z",
+                "ratedByData": "Tpx3APeyoIgXHAZ2Y5dABtLoRdL2"
+            },
+            {
+                "feedbackRating": [
+                    {
+                        "key": "Communication Listening (Comprehension capability)",
+                        "value": 18
+                    },
+                    {
+                        "key": "Ability to understand the question",
+                        "value": 7
+                    },
+                    {
+                        "key": "Ability to visualize and imagine the answer to the question",
+                        "value": 7
+                    },
+                    {
+                        "key": "Critical Analysis",
+                        "value": 7
+                    },
+                    {
+                        "key": "Ability to embed stakeholders' sentiments in the solution",
+                        "value": 6
+                    },
+                    {
+                        "key": "Ability to communicate",
+                        "value": 6
+                    },
+                    {
+                        "key": "Quality of Presentation",
+                        "value": 16
+                    }
+                ],
+                "ratedBy": "V6N7yG5yKHgbbDCADiMbPQHkF5z1",
+                "overall": 4,
+                "feedback": "Recommended.",
+                "date": "2024-02-14T04:50:01.726Z",
+                "ratedByData": "V6N7yG5yKHgbbDCADiMbPQHkF5z1"
+            }
+        ],
+        "programReg": {
+            "eligibilityType": null,
+            "XATScore": null,
+            "isIndian": false,
+            "type": "EFPM",
+            "XATRegId": null,
+            "XATForm": null,
+            "route": null,
+            "examType": null,
+            "examRegId": null,
+            "examDate": null,
+            "score": null,
+            "totalScore": null,
+            "percentage": null,
+            "examFile": null,
+            "institute": null,
+            "specification": {
+                "areaOfSpecification2": "Strategic Management",
+                "areaOfSpecification1": "Finance"
+            },
+            "specifications": [
+                {
+                    "area": "Finance",
+                    "status": "Yes",
+                    "selectedBy": "N Sivasankaran",
+                    "remark": "Can be looked into as the candidate has corporate finance experience."
+                },
+                {
+                    "area": "Strategic Management",
+                    "status": "Yes",
+                    "selectedBy": "Kalyan Bhaskar",
+                    "remark": "Work ex and SOP aligned."
+                }
+            ],
+            "cGPAScore": null,
+            "scale": null
+        },
+        "status": 1,
+        "createdAt": "2023-10-11T00:39:24.427Z",
+        "updatedAt": "2024-02-20T06:41:04.833Z",
+        "__v": 0,
+        "bankDetails": {
+            "accountName": "SHUBHAJYOTI SAHA",
+            "accountNumber": "20002379337",
+            "bankName": "State Bank of India",
+            "branch": "BAGMARI",
+            "ifscCode": "SBIN0003682",
+            "blankCheque": "https://firebasestorage.googleapis.com/v0/b/xlri-erp.appspot.com/o/profile%2F6525eebc1c7bada041a0ab84%2FprofileCheque-6525eebc1c7bada041a0ab84-mM599h?alt=media&token=c2fcd9b0-b0b2-475a-a6be-60f7613aae4c"
+        }
+    },
+    "interviewerData": [
+        {
+            "_id": "Tpx3APeyoIgXHAZ2Y5dABtLoRdL2",
+            "firstName": "N",
+            "lastName": "Sivasankaran",
+            "email": "ns@xlri.ac.in",
+            "phone": "9570001114",
+            "fcmToken": null,
+            "userType": "faculty",
+            "otherRoles": [],
+            "status": 1,
+            "createdAt": "2022-12-01T06:40:36.404Z",
+            "updatedAt": "2024-01-17T11:16:25.197Z",
+            "__v": 0,
+            "mainUrl": "https://firebasestorage.googleapis.com/v0/b/xlri-erp.appspot.com/o/profile-pic%2FTpx3APeyoIgXHAZ2Y5dABtLoRdL2%2Fmain%2FTpx3APeyoIgXHAZ2Y5dABtLoRdL2.jpeg?alt=media&token=fb8f25c3-673c-47b6-af9a-21ac723342c4",
+            "picUrl": "",
+            "picURL": "",
+            "barCode": "https://firebasestorage.googleapis.com/v0/b/xlri-erp.appspot.com/o/uploads%2Fbarcoden5exm.png?alt=media&token=8c759e2a-3180-4954-b837-02e24cd34e62",
+            "code": "FTF696"
+        },
+        {
+            "mainUrl": null,
+            "picURL": null,
+            "picUrl": null,
+            "_id": "V6N7yG5yKHgbbDCADiMbPQHkF5z1",
+            "firstName": "Pankaj",
+            "lastName": "Kumar Agarwal",
+            "email": "pankaj@xlri.ac.in",
+            "phone": "9839711444",
+            "fcmToken": null,
+            "userType": "faculty",
+            "code": "FTF809",
+            "otherRoles": [],
+            "status": 1,
+            "createdAt": "2024-02-09T06:44:37.150Z",
+            "updatedAt": "2024-02-09T06:45:39.202Z",
+            "__v": 0
+        }
+    ]
+}
+]
